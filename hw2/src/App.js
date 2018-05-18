@@ -5,7 +5,7 @@ import Navbar from './Components/NavBar'
 import RGB from './Containers/RGB'
 import BW from './Containers/BW'
 
-const PALETTE = ["#1E90FF", "#90EE90", "#00FF00", "#FFA500", "#FFB6C1", "#FFFF00", "#9ACD32", "#FF6347", "#008080", "#20B2AA"]
+const PALETTE = ["#FFA500", "#FFB6C1", "#FFFF00", "#9ACD32", "#FF6347", "#008080", "#20B2AA","#1E90FF", "#90EE90", "#00FF00"]
 
 class App extends Component {
   constructor() {
